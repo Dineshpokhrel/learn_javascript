@@ -60,6 +60,7 @@ const chai =  () => {
 
 const addTwo = (num1, num2) => ({username: "dinesh"})
 
+// to return object parenthesis vitra rakhna parchha object  
 
 console.log(addTwo(3, 4))
 

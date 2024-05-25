@@ -38,7 +38,7 @@ function loginUserMessage(username = "dp"){
 // console.log(loginUserMessage("dinesh"))
 // console.log(loginUserMessage("dinesh"))
 
-
+// ... rest operator and also called scoped operater
 function calculateCartPrice(val1, val2, ...num1){
     return num1
 }
@@ -55,6 +55,8 @@ function handleObject(anyobject){
 }
 
 // handleObject(user)
+
+
 handleObject({
     username: "dp",
     price: 399
